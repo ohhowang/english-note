@@ -2,14 +2,14 @@ module.exports = {
     base: "/english-note/",
     // 站点配置
     lang: 'zh-CN',
-    title: '英语语法笔记',
-    description: '从0开始学习英语语法',
+    title: '语法笔记',
+    description: '从0开始学习语法',
 
     locales: {
       '/': {
         lang: 'zh-CN',
-        title: '英语语法',
-        description: '从0开始学习英语语法',
+        title: '语法',
+        description: '从0开始学习语法',
       },
     },
 

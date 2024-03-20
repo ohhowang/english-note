@@ -1,7 +1,7 @@
 {
   "name": "english-note",
   "version": "1.0.0",
-  "description": "从0开始的英语语法学习",
+  "description": "从0开始的语法学习",
   "main": "index.js",
   "repository": "https://github.com/xiaoxunyao/english-note.git",
   "author": "xiaoxunyao <huchengyea@163.com>",
